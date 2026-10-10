@@ -95,4 +95,4 @@ These are **experimental design differences**, not claims of novelty against all
 
 ## Image use and attribution
 
-This page **links to** publisher figures rather than downloading or redistributing the earlier chat's search images. Article images remain subject to their stated licenses and attribution requirements. The external figure preview above is hotlinked to its publisher and may change; the article link is the durable reference.
+This page **links to** publisher figures rather than downloading or redistributing images. Article images remain subject to their stated licenses and attribution requirements. The external figure preview above is hotlinked to its publisher and may change; the article link is the durable reference.
