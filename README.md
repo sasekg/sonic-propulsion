@@ -1,5 +1,7 @@
 # Sonic Propulsion
 
+📚 [Related work and visual references](RELATED_WORK.md)
+
 **Experimental research concept: remote, closed-loop steering of lightweight objects using timed acoustic interference.**
 
 ## Research question
